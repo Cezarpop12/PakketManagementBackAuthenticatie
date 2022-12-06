@@ -1,4 +1,4 @@
-package com.authenticatie.authenticatie;
+package com.Authenticatie.authenticatie.authenticatie;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
